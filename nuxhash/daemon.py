@@ -24,7 +24,7 @@ from nuxhash.switching.naive import NaiveSwitcher
 from nuxhash.version import __version__
 
 
-BENCHMARK_SECS = 60
+BENCHMARK_SECS = 5
 DONATE_PROB = 0.005
 DONATE_ADDRESS = '39kBCRs9D2iBSDPwDYDW1E2gnMsY2xdwKW'
 
